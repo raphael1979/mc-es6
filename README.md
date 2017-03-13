@@ -20,3 +20,6 @@ Réaliser une todo list permettant d'ajouter des choses à se rappeler. Une fois
 * Les tâches doivent être stocké dans le fichié json "taks.json".
 * CSS : uniquement fait avec un framework CSS : Semantic UI, Bootstrap ...
 * Pour les requếtes utiliser uniquement "fetch()".
+
+# Ressources :
+* http://es6-features.org/#Constants
