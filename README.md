@@ -17,7 +17,7 @@ Réaliser une todo list permettant d'ajouter des choses à se rappeler. Une fois
 * Le côté client et le serveur doit contenir exclusivement de l'ES6.
 * Serveur : index.js.
 * Client : public/js/app.js & public/index.html.
-* Les tâches doivent être stocké dans le fichié json "taks.json".
+* Les tâches doivent être stocké dans le fichié json "tasks.json".
 * CSS : uniquement fait avec un framework CSS : Semantic UI, Bootstrap ...
 * Pour les requếtes utiliser uniquement "fetch()".
 
